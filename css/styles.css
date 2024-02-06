@@ -1,8 +1,8 @@
 .body {
-  font-family: 'Roboto', 'RaleWay', sans-serif;
+  font-family: 'Roboto', 'RaleWay';
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 2%;
   background-color: #ffff;
   color: #434455;
@@ -15,7 +15,7 @@
   font-weight: 700;
   font-size: 56px;
   letter-spacing: 2%;
-  line-height: 60px;
+  line-height: 1.05;
 }
 .title-section {
   background-color: #2e2f42;
@@ -28,20 +28,20 @@
 }
 .benefit-text {
   color: #434455;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 16px;
   letter-spacing: 2%;
-  line-height: 24px;
+  line-height: 1.5;
   text-align: left;
 }
 .button-order-service {
   color: #ffffff;
   background-color: #4d5ae5;
-  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 4%;
+  cursor: pointer;
 }
 .button-order-service:hover {
   background-color: #404bbf;
@@ -83,6 +83,7 @@
 }
 .benefit-title {
   color: #2e2f42;
+  font-weight: 500;
 }
 .team-cards-names {
   color: #2e2f42;
@@ -92,7 +93,6 @@
 }
 .team-card-positions {
   color: #434455;
-  font-family: 'Roboto';
   font-weight: 400;
 }
 .portfolio-items {
@@ -100,6 +100,17 @@
 }
 .portfolio-item text {
   color: #434455;
-  font-family: 'Roboto';
   font-weight: 400;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.footer-text {
+  color: #ffffff;
+  text-align: left;
+  font-weight: 400;
+}
+.footer-logo {
+  color: #f4f4fd;
+  text-decoration: none;
 }
