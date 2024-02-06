@@ -1,4 +1,31 @@
 .body {
-  color;
-  background-color: ;
+  font-family: 'Roboto', 'RaleWay', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  background-color: #ffff;
+  color: #434455;
 }
+.main-title {
+  font-weight: 700;
+  font-size: 56px;
+  letter-spacing: 2%;
+  line-height: 60px;
+}
+.second-title {
+  font-weight: 700;
+  font-size: 36px;
+  letter-spacing: 2%;
+}
+.benefit-text {
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 2%;
+  line-height: 24px;
+}
+.button-order-service {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 4%;
