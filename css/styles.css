@@ -7,25 +7,99 @@
   background-color: #ffff;
   color: #434455;
 }
+.header {
+  background-color: #ffffff;
+}
 .main-title {
+  color: #ffffff;
   font-weight: 700;
   font-size: 56px;
   letter-spacing: 2%;
   line-height: 60px;
 }
+.title-section {
+  background-color: #2e2f42;
+}
 .second-title {
+  color: #2e2f42;
   font-weight: 700;
   font-size: 36px;
   letter-spacing: 2%;
 }
 .benefit-text {
+  color: #434455;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 2%;
   line-height: 24px;
+  text-align: left;
 }
 .button-order-service {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 4%;
+}
+.button-order-service:hover {
+  background-color: #404bbf;
+}
+.upper-logo {
+  color: #434455;
+  font-family: 'RaleWay', sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+}
+.nav-buttons {
+  color: #434455;
+  font-family: 'RaleWay', sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+}
+.nav-address {
+  color: #434455;
+  font-family: 'RaleWay', sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: normal;
+}
+.nav-buttons:hover {
+  color: #4d5ae5;
+}
+.nav-buttons:active {
+  color: #4d5ae5;
+  text-decoration: underline;
+}
+.nav-address:hover {
+  color: #4d5ae5;
+}
+.team-cards {
+  background-color: #ffffff;
+}
+.team-cards-section {
+  background-color: #f4f4fd;
+}
+.benefit-title {
+  color: #2e2f42;
+}
+.team-cards-names {
+  color: #2e2f42;
+  font-family: 'Roboto';
+  font-weight: 500;
+  text-shadow: 2px 2px 4px #2e2f42;
+}
+.team-card-positions {
+  color: #434455;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.portfolio-items {
+  color: #2e2f42;
+}
+.portfolio-item text {
+  color: #434455;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
