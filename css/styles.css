@@ -101,7 +101,6 @@ ul {
 }
 .nav-buttons:focus {
   color: #404bbf;
-  text-decoration: underline;
 }
 .nav-address:hover {
   color: #404bbf;
