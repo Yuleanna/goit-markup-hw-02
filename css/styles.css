@@ -84,7 +84,7 @@ ul {
   text-transform: uppercase;
 }
 .nav-buttons {
-  color: #434455;
+  color: #2e2f42;
   font-family: 'RaleWay', sans-serif;
   font-weight: 500;
   text-decoration: none;
@@ -108,6 +108,14 @@ ul {
 .nav-address:hover,
 :focus {
   color: #404bbf;
+}
+.team-title {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .team-cards {
   background-color: #ffffff;
@@ -133,6 +141,10 @@ ul {
 }
 .team-card-positions {
   color: #434455;
+}
+.portfolio-title {
+  font-size: 36px;
+  line-height: 1.11;
 }
 .portfolio-items {
   color: #2e2f42;
@@ -165,7 +177,7 @@ ul {
   color: #4d5ae5;
   text-decoration: none;
 }
-.studio-logo-footer {
+.footer-logo-span {
   font-family: 'Raleway', sans-serif;
   color: #f4f4fd;
   font-size: 18px;
