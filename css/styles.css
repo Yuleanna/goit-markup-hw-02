@@ -85,15 +85,13 @@ ul {
 }
 .nav-buttons {
   color: #2e2f42;
-  font-family: 'RaleWay', sans-serif;
   font-weight: 500;
   text-decoration: none;
   letter-spacing: 0.02em;
 }
 .nav-address {
   color: #434455;
-  font-family: 'RaleWay', sans-serif;
-  font-weight: 500;
+  font-weight: 400;
   text-decoration: none;
   font-style: normal;
   letter-spacing: 0.02em;
@@ -105,8 +103,10 @@ ul {
   color: #404bbf;
   text-decoration: underline;
 }
-.nav-address:hover,
-:focus {
+.nav-address:hover {
+  color: #404bbf;
+}
+.nav-address:focus {
   color: #404bbf;
 }
 .team-title {
