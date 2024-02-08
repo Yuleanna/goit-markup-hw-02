@@ -134,7 +134,6 @@ ul {
   color: #2e2f42;
   font-family: 'Roboto';
   font-weight: 500;
-  text-shadow: 2px 2px 4px #2e2f42;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -144,17 +143,17 @@ ul {
 }
 .portfolio-title {
   font-size: 36px;
-  line-height: 1.11;
   font-weight: 500;
-  font-size: 20px;
   line-height: 1.2;
+  text-align: center;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .portfolio-items {
   color: #2e2f42;
   font-weight: 500;
-  font-size: 36px;
+  font-size: 20px;
   line-height: 1.11;
   letter-spacing: 0.02em;
 }
