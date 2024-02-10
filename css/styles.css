@@ -96,18 +96,16 @@ ul {
   font-style: normal;
   letter-spacing: 0.02em;
 }
-.nav-buttons:hover {
-  color: #404bbf;
-}
+.nav-buttons:hover,
 .nav-buttons:focus {
   color: #404bbf;
 }
-.nav-address:hover {
-  color: #404bbf;
-}
+
+.nav-address:hover,
 .nav-address:focus {
   color: #404bbf;
 }
+
 .team-title {
   font-size: 36px;
   line-height: 1.11;
